@@ -1,4 +1,4 @@
-clear
+
 print("Warning, This Informations come from BlackMarket")
 print("******************************************")
 print("      ANNA'S PERSONNALE INFO")
